@@ -1,4 +1,4 @@
-package poo.actividad.pkg2;
+
 
 import java.util.Scanner;
 
