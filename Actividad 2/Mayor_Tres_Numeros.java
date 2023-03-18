@@ -1,5 +1,3 @@
-
-
 import java.util.Scanner;
 
 public class Mayor_Tres_Numeros {

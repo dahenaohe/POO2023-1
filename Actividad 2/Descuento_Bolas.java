@@ -1,5 +1,3 @@
-
-
 import java.util.Scanner;
 
 public class Descuento_Bolas {
