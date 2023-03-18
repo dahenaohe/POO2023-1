@@ -1,5 +1,3 @@
-
-
 import java.util.Scanner;
 
 public class Pago_Matricula_Estudiante {
